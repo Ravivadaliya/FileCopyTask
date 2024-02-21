@@ -1,0 +1,10 @@
+D:\Work\Task10\Task10\obj\Debug\Task10.csproj.AssemblyReference.cache
+D:\Work\Task10\Task10\obj\Debug\Task10.Form1.resources
+D:\Work\Task10\Task10\obj\Debug\Task10.Properties.Resources.resources
+D:\Work\Task10\Task10\obj\Debug\Task10.csproj.GenerateResource.cache
+D:\Work\Task10\Task10\obj\Debug\Task10.csproj.CoreCompileInputs.cache
+D:\Work\Task10\Task10\bin\Debug\Task10.exe.config
+D:\Work\Task10\Task10\bin\Debug\Task10.exe
+D:\Work\Task10\Task10\bin\Debug\Task10.pdb
+D:\Work\Task10\Task10\obj\Debug\Task10.exe
+D:\Work\Task10\Task10\obj\Debug\Task10.pdb
